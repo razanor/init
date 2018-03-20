@@ -1,0 +1,1 @@
+ifconfig | cut -f1 | awk ' {print $1}' | cut -f1 -d : | sed '/^$/d'

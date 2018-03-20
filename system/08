@@ -1,0 +1,2 @@
+# Deduction
+You can generate RSA keys using commands: "ssh-keygen -t rsa" and find this file in the following path:  /.ssh/authorized_keys

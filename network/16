@@ -1,0 +1,2 @@
+# Deduction
+You can use the following command in order to do it: sudo echo "46.19.122.85 intra.42.fr" >> ets/hosts
